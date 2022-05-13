@@ -79,7 +79,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-		</plugins>
+		</plugins><finalName>user-ratting</finalName>
 	</build>
 
 </project>
